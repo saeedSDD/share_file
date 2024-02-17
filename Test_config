@@ -124,8 +124,8 @@
       "settings": {
         "fragment": {
           "packets": "tlshello",
-          "length": "10-20",
-          "interval": "10-20"
+          "length": "150-200",
+          "interval": "1-2"
         }
       }
    
